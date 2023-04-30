@@ -5,7 +5,7 @@ Dieses Repository beinhaltet Elemente meiner Bachelorarbeit die ich der Öffentl
 ## Matrizen
 Im Ordner 'matrices' befinden sich zunächst zusammenfassende Konfusionsmatrizen für sowohl die grobkörnige- als auch die feinkörnige Aufteilung der Entitäten. Die Ziffern innerhalb einer Matrixzelle stehen von oben nach unten gelesen für: 
 
-+ 1. BERT-base-german-cased (Transformer)
-+ 2. GELECTRA-large (Transformer)
-+ 3. XLM-RoBERTa-large (Transformer)
-+ 4. BiLSTM-CRF (Referenzmodell)
+1. BERT-base-german-cased (Transformer)
+2. GELECTRA-large (Transformer)
+3. XLM-RoBERTa-large (Transformer)
+4. BiLSTM-CRF (Referenzmodell)
